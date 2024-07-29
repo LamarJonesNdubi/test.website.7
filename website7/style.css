@@ -1,0 +1,20 @@
+h1{
+    text-shadow: 3px 3px 5px hsl(0, 62%, 54%), -3px -3px 5px hsl(193, 62%, 54%);
+    
+}
+#box1{
+    width: 100px;
+    height: 100px;
+    background-color: azure;
+    box-shadow: 3px 3px 10px;
+}
+h2{
+    text-shadow: 3px 3px 5px red , -3px -3px 5px gray ;
+
+}
+#box2{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    box-shadow: 3px 3px 10px;
+}
